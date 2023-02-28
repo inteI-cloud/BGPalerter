@@ -75,7 +75,7 @@
     "rpki-validator": "^2.2.12",
     "semver": "^7.3.4",
     "syslog-client": "^1.1.1",
-    "ws": "^7.4.0",
+    "ws": "^7.5.9",
     "yargs": "^16.2.0"
   },
   "pkg": {
